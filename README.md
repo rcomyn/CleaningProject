@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README.md
 
 This project takes a raw data set from the UCI Machine Learning Repository and transforms it into a tidy data. To create the tidy data set as a text file, run run_analysis.R. It will download the data and create the text file in your working directory.
@@ -131,3 +132,7 @@ Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ort
 
 
 
+=======
+# CleaningProject
+Getting and Cleaning Data - Course Project
+>>>>>>> f599b5e8ce26f5c96872fa1bae28a1eb59652271
